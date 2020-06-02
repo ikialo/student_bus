@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "211341743676",
+    "firebase_url": "https://schoolbus-b15ef.firebaseio.com",
+    "project_id": "schoolbus-b15ef",
+    "storage_bucket": "schoolbus-b15ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211341743676:android:673233d45a10c63bd7d539",
+        "android_client_info": {
+          "package_name": "synarcsystems.com.studentbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211341743676-pe1024cvsbdji7o750n3gtemv40d5uvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAytmVVZsIri25rrmUakiDlLsWRect5cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211341743676-pe1024cvsbdji7o750n3gtemv40d5uvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
